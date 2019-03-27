@@ -1,0 +1,7 @@
+This is the second sample text. 
+
+The one of the two.
+
+I will use this two for test.
+
+Keywords will include Machine Learning, Data Science, Keras, NLP.

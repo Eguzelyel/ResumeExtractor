@@ -1,0 +1,9 @@
+This is the third sample text. 
+
+The one of the two.
+
+I will use this two for test.
+
+Keywords will include again Machine Learning, Data Science, Keras, NLP.
+
+But, this time, I use ßpeciál çharactérs.
