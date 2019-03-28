@@ -15,6 +15,7 @@ Ars Based Programming
 Aspect Oriented Programming
 Best Practices
 Browsers
+C
 CASE Tools
 Code
 Coding
@@ -31,8 +32,11 @@ Database Techniques
 Databases
 Data
 Data Analytics
+Data Science
 Data Structures
 Debugging
+Deep Neural Networks
+Deep Learning
 Design
 Development
 Development Tools
@@ -46,18 +50,23 @@ HTML Conversion Tools
 Industry Systems
 iOS
 Information Systems
+Information Technology
 Implementation
 Interface with Clients
 Interface with Vendors
 Internet
+Java
+JavaScript
 Languages
 Linux
 Logic
+Machine Learning
 MacOS
 Math
 Mobile
 Multimedia
 Multi-Tasking
+Neural Networks
 Operating Systems
 Optimizing
 Organizational
@@ -71,12 +80,19 @@ Problem Solving
 Programming Languages
 Programming Methodologies
 Quality Control
+R
+Recommender Systems
+Reinforcement Learning
 Relational Databases
 Relational Programming
 Reporting
 Revision Control
+Ruby
+Statistical Learning
+Statistics
 Self-Motivation
 Software
+Software Engineering
 Structured Query Language (SQL)
 Symbolic Programming
 System Architecture

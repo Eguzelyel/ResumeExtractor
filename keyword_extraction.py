@@ -4,8 +4,7 @@ import random # For sampling
 import glob # For multiple files
 
 
-def import_resume(path='/Users/ekremguzelyel/Desktop/Assignments/Cs/Hackathons/ResumeExtractor/SamplePDF/Sample_Resume.pdf',
-                  ):
+def import_resume(path='/Users/ekremguzelyel/Desktop/Assignments/Cs/Hackathons/ResumeExtractor/SamplePDF/Sample_Resume.pdf'):
    # Opening PDF file and cleaning text.
 
    pdfFileObj = open(path, 'rb') 
@@ -58,4 +57,5 @@ def import_keys(path='./keywords/*.txt'):
 
        FI.close()
 
+   print("Keywords imported.")
    return keyword_dic
