@@ -57,6 +57,7 @@ Interface with Vendors
 Internet
 Java
 JavaScript
+Keras
 Languages
 Linux
 Logic
@@ -67,6 +68,7 @@ Mobile
 Multimedia
 Multi-Tasking
 Neural Networks
+Numpy
 Operating Systems
 Optimizing
 Organizational
@@ -91,6 +93,7 @@ Ruby
 Statistical Learning
 Statistics
 Self-Motivation
+Sklearn
 Software
 Software Engineering
 Structured Query Language (SQL)
