@@ -1,0 +1,9 @@
+# Ipython Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+.DS_Store?
+
+# Pycache
+__pycache__/
